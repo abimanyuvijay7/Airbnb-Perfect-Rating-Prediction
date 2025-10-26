@@ -105,3 +105,15 @@ Performance was evaluated using True Positive Rate (TPR), False Positive Rate (F
 - Business insights from this model can help Airbnb and hosts improve listing quality and customer satisfaction.
 
 ---
+
+## 👥 Team Members
+- **Abimanyu Vijay Krishnamoorthy**  
+- Maitreyee Tiwari  
+- Rohan Vasudevan  
+- Pranav Bharatwaj Manikantan  
+- Aditya Kaushik  
+
+---
+
+## 📜 License
+This project is open-sourced under the [MIT License](LICENSE).
