@@ -106,7 +106,7 @@ Performance was evaluated using True Positive Rate (TPR), False Positive Rate (F
 
 ---
 
-## 👥 Team Members
+## Team Members
 - **Abimanyu Vijay Krishnamoorthy**  
 - Maitreyee Tiwari  
 - Rohan Vasudevan  
@@ -115,5 +115,5 @@ Performance was evaluated using True Positive Rate (TPR), False Positive Rate (F
 
 ---
 
-## 📜 License
+## License
 This project is open-sourced under the [MIT License](LICENSE).
